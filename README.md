@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Lincoln Madaraka! 👋
 
-<!--
-**Lincoln-Madaraka/Lincoln-Madaraka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 👨‍💻 Backend Developer | DevOps | Cybersecurity Enthusiast
+- 🎓 ALX Africa Software Engineering Learner | Self-taught Developer
+- 🎓 Bachelor's in Telecommunication & Information Technology
+- 🌍 Exploring diverse tech fields and passionate about collaboration in tech projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+- 🔧 Building robust backend systems
+- 🛡️ Enhancing cybersecurity measures
+- 🚀 Automating DevOps processes
+
+## Get in Touch
+
+- LinkedIn: [Lincoln Madaraka](https://www.linkedin.com/in/lincoln-madaraka/)
+- Twitter: [@lincode101](https://twitter.com/lincode101)
+
+## Let's Collaborate!
+
+I'm always open to discussing ideas and collaborating on exciting tech projects. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/lincoln-madaraka/) or [Twitter/X](https://twitter.com/lincode101). Let's innovate together!
+
+---
+
+⭐️ Feel free to star some of my repositories if you find them interesting!
+
