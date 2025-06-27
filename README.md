@@ -44,15 +44,15 @@ I aim to contribute to organizations focused on:
 
 ---
 
-### 🧠 QuizVault *(Full-stack quiz platform)*  
-📎 [GitHub Repo](https://github.com/Lincoln-Madaraka/QuizVault)  
+### 🩸⚕️BloodAfya *(Blood Donor Recipient platform)*  
+📎 [BloodAfya](https://bloodafya.vercel.app/)  
 - Backend for a quiz management platform with scoring and user roles  
 - Built with Django REST Framework (React frontend in progress)
 
 ---
 
 ### 💾 Health Information System  
-📎 [GitHub Repo](https://github.com/Lincoln-Madaraka/Health-Information-System)  
+📎 [HIS](https://health-information-syst.onrender.com/login)  
 - A secure Django app for managing medical records and patient information  
 - Includes login auth, CRUD operations, and session control
 
