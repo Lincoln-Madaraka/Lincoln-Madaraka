@@ -38,7 +38,7 @@ I aim to contribute to organizations focused on:
 ## 📂 Featured Projects
 
 ### 🌐 Portfolio Website  
-📎 [lincoln-madaraka-portfolio.vercel.app](https://lincoln-madaraka-portfolio.vercel.app)  
+📎 [Porfolio](https://lincoln-madaraka-portfolio.vercel.app)  
 - Personal site showcasing my work, certifications, and interests  
 - Tech: HTML, CSS, JavaScript | Deployed on Vercel  
 
