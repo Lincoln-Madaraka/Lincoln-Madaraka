@@ -23,14 +23,14 @@ I thrive in environments where I can build, automate, and optimize modern softwa
 
 ## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryo8000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lincoln-Madaraka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![ryo8000's Github stats](https://github-readme-stats.vercel.app/api?username=ryo8000&show_icons=true&count_private=true&line_height=40) -->
 
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=Lincoln-Madaraka)<br/>
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo8000&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lincoln-Madaraka&rank=-C)](https://github.com/Lincoln-Madaraka/github-profile-trophy)
 
 
 ---
