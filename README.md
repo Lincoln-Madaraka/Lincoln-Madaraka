@@ -101,9 +101,9 @@ Kenyatta University (2021–2025)
 
 I'm actively exploring DevOps, Backend Engineering, and Cloud Infrastructure roles. Let’s connect and build scalable, secure, and efficient systems together!
 
-- 📧 [madarakalincoln48@gmail.com](mailto:madarakalincoln48@gmail.com)  
-- 🐦 [@syntaxrtx](https://twitter.com/syntaxrtx)   
-- 🌍 [Portfolio](https://lincoln-madaraka-portfolio.vercel.app)
+- 📧 [Email Me](mailto:madarakalincoln48@gmail.com)  
+- 🐦 [Twitter](https://twitter.com/syntaxrtx)   
+- 🌍 [My Portfolio](https://lincoln-madaraka-portfolio.vercel.app)
 
 ---
 
