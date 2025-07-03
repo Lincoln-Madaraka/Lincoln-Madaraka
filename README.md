@@ -32,9 +32,6 @@ I thrive in environments where I can build, automate, and optimize modern softwa
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Lincoln-Madaraka&show_icons=true&theme=tokyonight&locale=en&card_width=500" alt="TechSpider" />
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lincoln-Madaraka&theme=tokyonight&card_width=500" alt="Lincoln" />
-    </td>
   </tr>
 </table>
 
