@@ -22,7 +22,6 @@ I thrive in environments where I can build, automate, and optimize modern softwa
 - **Others**: Git, Postman, Jupyter, Linux CLI, Figma, VS Code  
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lincoln-Madaraka&theme=tokyonight)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lincoln-Madaraka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
