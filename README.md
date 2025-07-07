@@ -25,13 +25,13 @@ I thrive in environments where I can build, automate, and optimize modern softwa
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lincoln-Madaraka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<table>
+<!--<table> 
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Lincoln-Madaraka&show_icons=true&theme=tokyonight&locale=en&card_width=500" alt="TechSpider" />
     </td>
   </tr>
-</table>
+</table> -->
 
 
 ## 🏆 GitHub Trophies
