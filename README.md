@@ -34,11 +34,11 @@ I thrive in environments where I can build, automate, and optimize modern softwa
 </table> -->
 
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lincoln-Madaraka&rank=-C)](https://github.com/Lincoln-Madaraka/github-profile-trophy)
 
-
+-->
 ---
 
 ## 🎯 Career Goals
