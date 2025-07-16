@@ -85,6 +85,7 @@ I aim to contribute to organizations focused on:
 - 🧠 **Google IT Support Certificate – Coursera**  
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Lincoln-Madaraka&theme=dark)](https://git.io/streak-stats)
 
 ## 🧠 Soft Skills
 
