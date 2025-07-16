@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Lincoln Madaraka
-
+[![Lincoln Madaraka profile views](https://u8views.com/api/v1/github/profiles/117019629/views/day-week-month-total-count.svg)](https://u8views.com/github/Lincoln-Madaraka)
 ## 🚀 About Me
 
 🎓 **Software Engineer** | 💻 **Backend Developer** | ⚙️ **DevOps Enthusiast**  
