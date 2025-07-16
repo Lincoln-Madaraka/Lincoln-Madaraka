@@ -1,5 +1,5 @@
-# 👋 Hi there, I'm Lincoln Madaraka
-[![Lincoln Madaraka profile views](https://u8views.com/api/v1/github/profiles/117019629/views/day-week-month-total-count.svg)](https://u8views.com/github/Lincoln-Madaraka)
+# 👋 Hi there
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brightdev124&label=Profile%20views&color=0e75b6&style=flat" alt="brightdev124" /> </p>
 ## 🚀 About Me
 
 🎓 **Software Engineer** | 💻 **Backend Developer** | ⚙️ **DevOps Enthusiast**  
