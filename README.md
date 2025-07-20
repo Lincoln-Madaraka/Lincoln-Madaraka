@@ -68,6 +68,14 @@ I aim to contribute to organizations focused on:
 - Built with Django REST Framework (React frontend in progress)
 
 ---
+### MwangazaFarm 254*  
+Details soon
+
+---
+### Cytask
+Details soon
+
+---
 
 ### 💾 Health Information System  
 📎 [HIS](https://health-information-syst.onrender.com/login)  
