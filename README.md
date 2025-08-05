@@ -13,16 +13,16 @@ I thrive in environments where I can build, automate, and optimize modern softwa
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-- **Languages**: Python, C, JavaScript, Bash  
+- **Languages**: Python, PHP, JavaScript, Bash 
 - **Frameworks**: Django, Node.js, React (basic), Next.js  
 - **DevOps Tools**: Docker, GitHub Actions, CI/CD pipelines, systemd  
 - **Cloud & Infra**: Google Cloud, AWS (basic), Nginx, Linux  
 - **Databases**: MySQL, SQLite, MongoDB  
 - **Others**: Git, Postman, Jupyter, Linux CLI, Figma, VS Code  
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lincoln-Madaraka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -42,46 +42,55 @@ I thrive in environments where I can build, automate, and optimize modern softwa
 -->
 ---
 
-## 🎯 Career Goals
+## Career Goals
 
-My professional goal is to **become a DevOps Engineer and Backend Infrastructure Specialist** capable of designing, deploying, and scaling secure cloud-native systems.  
-I aim to contribute to organizations focused on:
 
-- Automating infrastructure and deployment pipelines  
-- Building and maintaining fault-tolerant backend APIs and microservices  
-- Leveraging cloud platforms for performance, scalability, and cost efficiency  
-- Enforcing system observability, security, and high uptime  
+My goal is to become a Cloud-Native Full-Stack & DevOps Engineer, skilled in building and deploying secure, scalable systems across modern cloud platforms. I aim to contribute to forward-thinking teams focused on:
 
----
+- Automating infrastructure and CI/CD pipelines.
+- Developing and maintaining reliable backend APIs and full-stack applications.
+- Leveraging cloud services (AWS, Azure, GCP) for performance and cost-efficiency.
+- Ensuring system security, observability and high availability.
+- Delivering user-focused features through robust front-end and back-end integration.
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 🌐 Portfolio Website  
+### Portfolio Website  
 📎 [Porfolio](https://lincoln-madaraka-portfolio.vercel.app)  
 - Personal site showcasing my work, certifications, and interests  
 - Tech: HTML, CSS, JavaScript | Deployed on Vercel  
 
 ---
 
-### 🩸⚕️BloodAfya *(Blood Donor Recipient platform)*  
-📎 [BloodAfya](https://bloodafya.vercel.app/)  
-- Backend for a quiz management platform with scoring and user roles  
-- Built with Django REST Framework (React frontend in progress)
+### BloodAfya *(Blood Donor Recipient platform-yet to be deployed)*  
+📎 [BloodAfya](https://github.com/Lincoln-Madaraka/bloodafya)  
+- BloodaAfya is a blood donation and healthcare coordination platform built with Next.js. It connects donors, recipients, and hospitals through a fast, responsive interface. 
+- The project uses server-side rendering and API routes to handle dynamic data while delivering a seamless user experience.
 
 ---
 ### MwangazaFarm 254*  
-Details soon
+📎 [MwangazaFarm](https://mwangazafarm254.vercel.app/)  
+- MwangazaFarm is an AI-powered produce marketplace built with React, designed to bridge the gap between Kenyan farmers and urban consumers. 
+- It helps farmers connect directly with buyers, get fair prices and grow their agribusiness using smart, tech-driven tools.
 
 ---
 ### Cytask
-Details soon
-
+📎 [Cytask](https://cytask-system.onrender.com/)  
+- Cytsask is a task management application built with PHP, designed to help users create, organize and track tasks efficiently. 
+- It features user authentication, task categorization, deadlines and status tracking to boost personal and team productivity.
 ---
 
-### 💾 Health Information System  
+### Health Information System  
 📎 [HIS](https://health-information-syst.onrender.com/login)  
 - A secure Django app for managing medical records and patient information  
 - Includes login auth, CRUD operations, and session control
+
+---
+
+### StaffFile  *(soon on render)*
+📎 [StaffFile](https://health-information-syst.onrender.com/login)  
+- A payroll management app. Made with Laravel and SQL
+- Includes admin and user interfacess.
 
 ---
 
@@ -125,3 +134,6 @@ I'm actively exploring DevOps, Backend Engineering, and Cloud Infrastructure rol
 
 ⭐️ Feel free to check out my repositories, explore my code, and connect with me.  
 Let’s build the future of software together. Modifying soon
+
+
+[BLANK](google-site-verification: google308476dd7cf20aad.html)
