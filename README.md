@@ -26,6 +26,8 @@ I thrive in environments where I can build, automate, and optimize modern softwa
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lincoln-Madaraka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![KE](https://user-badge.committers.top/kenya/Lincoln-Madaraka.svg)](https://user-badge.committers.top/kenya/Lincoln-Madaraka)
+
 <!--<table> 
   <tr>
     <td>
