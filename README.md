@@ -37,11 +37,11 @@ I thrive in environments where I can build, automate, and optimize modern softwa
 </table> -->
 
 
-<!--## 🏆 GitHub Trophies
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lincoln-Madaraka&rank=-C)](https://github.com/Lincoln-Madaraka/github-profile-trophy)
 
--->
+
 ---
 
 ## Career Goals
@@ -64,10 +64,10 @@ My goal is to become a Cloud-Native Full-Stack & DevOps Engineer, skilled in bui
 
 ---
 
-### BloodAfya *(Blood Donor Recipient platform-yet to be deployed)*  
+<!--### BloodAfya *(Blood Donor Recipient platform-yet to be deployed)*  
 📎 [BloodAfya](https://github.com/Lincoln-Madaraka/bloodafya)  
 - BloodaAfya is a blood donation and healthcare coordination platform built with Next.js. It connects donors, recipients, and hospitals through a fast, responsive interface. 
-- The project uses server-side rendering and API routes to handle dynamic data while delivering a seamless user experience.
+- The project uses server-side rendering and API routes to handle dynamic data while delivering a seamless user experience. -->
 
 ---
 ### MwangazaFarm 254*  
