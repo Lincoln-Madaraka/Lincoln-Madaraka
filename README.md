@@ -28,7 +28,7 @@ I thrive in environments where I can build, automate, and optimize modern softwa
 
 [![KE](https://user-badge.committers.top/kenya/Lincoln-Madaraka.svg)](https://user-badge.committers.top/kenya/Lincoln-Madaraka)
 
-<table> 
+<!--<table> 
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Lincoln-Madaraka&show_icons=true&theme=tokyonight&locale=en&card_width=500" alt="TechSpider" />
@@ -39,7 +39,7 @@ I thrive in environments where I can build, automate, and optimize modern softwa
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lincoln-Madaraka&rank=-C)](https://github.com/Lincoln-Madaraka/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lincoln-Madaraka&rank=-C)](https://github.com/Lincoln-Madaraka/github-profile-trophy) -->
 
 
 ---
