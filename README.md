@@ -49,10 +49,15 @@ Payroll management application built with Laravel and SQL for managing employee 
 
 ## Certifications & Training
 1. ALX Software Engineering –  A Certified Software Engineer, Backend Pro
+![Best Engineer Lincoln](<Screenshot From 2025-08-10 03-25-03.png>)
 2. Power Learn Project – Efficient Certified Web Developer.
+![Lincoln Poweer Learn PROJECT](project-5.jpeg)
 3. Google Cloud Platform – Professional Cloud Architect (badge issued)
+![Best Engineer Lincoln](<Screenshot From 2025-08-10 03-29-21.png>)
 4. Git Essentials – LinkedIn Learning
+![Lincoln Git Effective](<Screenshot From 2025-08-10 14-15-32.png>)
 5. Google IT Support Certificate – Coursera
+![Top Rated DevOps Engineer](image.png)
 
 ## Education
 BSc. in Telecommunication & Information Technology – Kenyatta University (2021–2025)
