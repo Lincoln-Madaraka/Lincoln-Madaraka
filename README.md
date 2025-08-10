@@ -6,29 +6,29 @@ I’m Lincoln Madaraka, a Kenyan software engineer specializing in backend devel
 I have BSc. in Telecommunication & Information Technology Degree from Kenyatta University and a Software Engineering Certification from Africa Leadership Experience(ALX) SWE, I build scalable, secure and cloud-ready systems.
 
 I focus on:
-> Backend API development and Fullstack Mobile and Web App development
-> Infrastructure automation & CI/CD pipelines
-> Cloud platforms like AWS, GCP and Azure
-> System security and high availability
+1. Backend API development and Fullstack Mobile and Web App development
+2. Infrastructure automation & CI/CD pipelines
+3. Cloud platforms like AWS, GCP and Azure
+4. System security and high availability
 
 ## Skills & Tech Stack
-```bash
-Programming Languages: Python, PHP, JavaScript, Bash
-Frameworks: Django, Node.js, React (basic), Next.js
-DevOps Tools: Docker, GitHub Actions, CI/CD pipelines, systemd
-Cloud & Infrastructure: Google Cloud, AWS (basic), Nginx, Linux server management
-Databases: MySQL, SQLite, MongoDB
-Other Tools: Git, Postman, Jupyter, Linux CLI, Figma, VS Code
-```
+
+1. Programming Languages: *Python, PHP, JavaScript, Bash*
+2. Frameworks: *Django, Node.js, React (basic), Next.js*
+3. DevOps Tools: *Docker, GitHub Actions, CI/CD pipelines, systemd*
+4. Cloud & Infrastructure: *Google Cloud, AWS (basic), Nginx, Linux server management*
+5. Databases: *MySQL, SQLite, MongoDB*
+6. Other Tools: *Git, Postman, Jupyter, Linux CLI, Figma, VS Code, Jira.*
+
 ## Career Goals
 My career mission is to be recognized among the best software engineers in Kenya and globally — building, automating and optimizing software systems that matter.
 I aim to contribute as a Full-Stack & DevOps Engineer by:
-```bash
-  Automating infrastructure & deployment pipelines
-  Creating reliable backend APIs and user-friendly full-stack applications
-  Leveraging cloud services for performance & cost-efficiency
-  Maintaining secure, highly-available systems
-  ```
+
+- Automating infrastructure & deployment pipelines
+- Creating reliable backend APIs and user-friendly full-stack applications
+- Leveraging cloud services for performance & cost-efficiency
+- Maintaining secure, highly-available systems
+
 
 ## Featured Projects by Lincoln Madaraka
 1. Portfolio Website
@@ -63,7 +63,7 @@ Payroll management application built with Laravel and SQL for managing employee 
 
 ## Education
 BSc. in Telecommunication & Information Technology – Kenyatta University (2021–2025)
-Key modules: Systems Administration, Networking, Backend Web Development, Embedded Systems and Internet of Things
+Key modules: *Systems Administration, Networking, Backend Web Development, Embedded Systems and Internet of Things*
 
 ## Let’s Connect
 📧 Email: madarakalincoln48@gmail.com
