@@ -23,10 +23,12 @@ Other Tools: Git, Postman, Jupyter, Linux CLI, Figma, VS Code
 ## Career Goals
 My career mission is to be recognized among the best software engineers in Kenya and globally — building, automating and optimizing software systems that matter.
 I aim to contribute as a Full-Stack & DevOps Engineer by:
-> Automating infrastructure & deployment pipelines
-> Creating reliable backend APIs and user-friendly full-stack applications
-> Leveraging cloud services for performance & cost-efficiency
-> Maintaining secure, highly-available systems
+```bash
+  Automating infrastructure & deployment pipelines
+  Creating reliable backend APIs and user-friendly full-stack applications
+  Leveraging cloud services for performance & cost-efficiency
+  Maintaining secure, highly-available systems
+  ```
 
 ## Featured Projects by Lincoln Madaraka
 1. Portfolio Website
