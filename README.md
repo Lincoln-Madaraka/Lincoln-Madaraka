@@ -31,22 +31,22 @@ I aim to contribute as a Full-Stack & DevOps Engineer by:
 
 
 ## Featured Projects by Lincoln Madaraka
-1. Portfolio Website
+1. Portfolio Website:
 Personal website showcasing my work, certifications, and skills.
 Tech: HTML, CSS, JavaScript | Hosted on Vercel
 
-2. MwangazaFarm 254
+2. MwangazaFarm 254:
 An AI-powered produce marketplace connecting Kenyan farmers to urban buyers.
 Built with React to empower agriculture through technology. | On Vercel
 
-3. Cytask
+3. Cytask:
 A PHP-based task management application with authentication, categorization, and status tracking.
 (updating on hosting issue soon)
 
-4. Information System
+4. Health Information System:
 A Django app for managing medical records with secure authentication and CRUD features.
 
-5. StaffFile 
+5. StaffFile:
 Payroll management application built with Laravel and SQL for managing employee salaries. | (On render soon, database issue)
 
 ## Certifications & Training
