@@ -5,13 +5,14 @@ Lincoln Madaraka – Software Engineer, Full-Stack & DevOps Specialist
 
 ## About Me
 I’m Lincoln Madaraka, a Kenyan software engineer specializing in backend development, full-stack applications, and DevOps engineering.
-I have BSc. in Telecommunication & Information Technology Degree from Kenyatta University and a Software Engineering Certification from Africa Leadership Experience(ALX) SWE, I build scalable, secure and cloud-ready systems.
+I have a Degree from Kenyatta University and a Software Engineering Certification from Holberton School's Africa Leadership Experience(ALX) SWE, I build scalable, secure and cloud-ready systems.
 
 I focus on:
-1. Backend API development and Fullstack Mobile and Web App development
-2. Infrastructure automation & CI/CD pipelines
-3. Cloud platforms like AWS, GCP and Azure
-4. System security and high availability
+1. Fullstack Mobile and Web App development.
+2. Infrastructure automation & CI/CD pipelines.
+3. Cloud platforms like AWS, GCP and Azure.
+4. System security and high availability.
+5. Backend API development.
 
 ## Skills & Tech Stack
 
@@ -37,22 +38,20 @@ I aim to contribute as a Full-Stack & DevOps Engineer by:
 Personal website showcasing my work, certifications, and skills.
 Tech: HTML, CSS, JavaScript | Hosted on Vercel
 
-5. [StaffFile](https://payroll-manager.onrender.com/) 
+2. [StaffFile](https://payroll-manager.onrender.com/) 
 Payroll management application built with Laravel and SQL for managing employee salaries. | Live On Render
 
-2. [MwangazaFarm 254](https://mwangazafarm254.vercel.app/)
+3. [MwangazaFarm 254](https://mwangazafarm254.vercel.app/)
 An AI-powered produce marketplace connecting Kenyan farmers to urban buyers.
 Built with React to empower agriculture through technology. | On Vercel
 
-3. [Cytask](https://cytask-system.onrender.com/)
+4. [Cytask](https://cytask-system.onrender.com/)
 A PHP-based task management application with authentication, categorization, and status tracking.
 (updating on hosting issue soon)
 
-4. Information System
+5. [Health Information System](https://health-information-syst.onrender.com/login)
 A Django app for managing medical records with secure authentication and CRUD features.
 
-5. StaffFile 
-Payroll management application built with Laravel and SQL for managing employee salaries. | (On render soon, database issue)
 
 ## Certifications & Training
 1. ALX Software Engineering –  A Certified Software Engineer, Backend Pro
@@ -67,13 +66,15 @@ Payroll management application built with Laravel and SQL for managing employee 
 ![Top Rated DevOps Engineer](image.png)
 
 ## Education
-BSc. in Telecommunication & Information Technology – Kenyatta University (2021–2025)
+Bachelors Degree – Kenyatta University (2021–2025)
 Key modules: *Systems Administration, Networking, Backend Web Development, Embedded Systems and Internet of Things*
+
+Software Engineering - Holberton School
 
 ## Let’s Connect
 📧 Email: madarakalincoln48@gmail.com
-🐦 Twitter: @syntaxrtx
-🌍 Portfolio: lincoln-madaraka-portfolio.vercel.app
+🐦 [MyTwitter](https://twitter.com/syntaxrtx)
+🌍 [MyPortfolio](https://lincoln-madaraka-portfolio.vercel.app/)
 
 
 ⭐️ Feel free to check out my repositories, explore my code, and connect with me.  
