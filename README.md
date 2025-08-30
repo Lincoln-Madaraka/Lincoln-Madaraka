@@ -55,7 +55,7 @@ Payroll management application built with Laravel and SQL for managing employee 
 2. Power Learn Project – Efficient Certified Web Developer.
 ![Lincoln Poweer Learn PROJECT](project-5.jpeg)
 3. Google Cloud Platform – Professional Cloud Architect (badge issued)
-![Best Engineer Lincoln](<Screenshot From 2025-08-10 03-29-21.png>)
+![Best Engineer Lincoln](project-6.png)
 4. Git Essentials – LinkedIn Learning
 ![Lincoln Git Effective](<Screenshot From 2025-08-10 14-15-32.png>)
 5. Google IT Support Certificate – Coursera
