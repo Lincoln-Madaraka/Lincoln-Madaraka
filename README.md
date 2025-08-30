@@ -55,7 +55,7 @@ A Django app for managing medical records with secure authentication and CRUD fe
 
 ## Certifications & Training
 1. ALX Software Engineering –  A Certified Software Engineer, Backend Pro
-![Best Engineer Lincoln](<Screenshot From 2025-08-10 03-25-03.png>)
+![Certified](project-3.png)
 2. Power Learn Project – Efficient Certified Web Developer.
 ![Lincoln Poweer Learn PROJECT](project-5.jpeg)
 3. Google Cloud Platform – Professional Cloud Architect (badge issued)
