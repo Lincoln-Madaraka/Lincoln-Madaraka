@@ -70,7 +70,7 @@ A Django app for managing medical records with secure authentication and CRUD fe
 Key modules: *Systems Administration, Networking, Backend Web Development, Embedded Systems and Internet of Things*
 ![KU](<Kenyatta University.png>)
 
-Software Engineering - Holberton School
+## Software Engineering - Holberton School
 ![ALX](holberton.png)
 
 ## Let’s Connect
