@@ -1,6 +1,8 @@
 Lincoln Madaraka – Software Engineer, Full-Stack & DevOps Specialist
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Lincoln-Madaraka&label=Profile%20views&color=0e75b6&style=flat" alt="Lincoln Madaraka" /></p>
 
+[![wakatime](https://wakatime.com/badge/user/c1bac4c9-c60a-4d0f-bf5e-78ee4d291507.svg)](https://wakatime.com/@c1bac4c9-c60a-4d0f-bf5e-78ee4d291507)
+
 ## About Me
 I’m Lincoln Madaraka, a Kenyan software engineer specializing in backend development, full-stack applications, and DevOps engineering.
 I have BSc. in Telecommunication & Information Technology Degree from Kenyatta University and a Software Engineering Certification from Africa Leadership Experience(ALX) SWE, I build scalable, secure and cloud-ready systems.
@@ -31,9 +33,12 @@ I aim to contribute as a Full-Stack & DevOps Engineer by:
 
 
 ## Featured Projects by Lincoln Madaraka
-1. Portfolio Website
+1. [Portfolio Website](https://lincoln-madaraka-portfolio.vercel.app/)
 Personal website showcasing my work, certifications, and skills.
 Tech: HTML, CSS, JavaScript | Hosted on Vercel
+
+5. [StaffFile]() 
+Payroll management application built with Laravel and SQL for managing employee salaries. | Live On Render
 
 2. MwangazaFarm 254
 An AI-powered produce marketplace connecting Kenyan farmers to urban buyers.
