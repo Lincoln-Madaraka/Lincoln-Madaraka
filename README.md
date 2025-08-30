@@ -66,10 +66,12 @@ A Django app for managing medical records with secure authentication and CRUD fe
 ![Certified](project-11.png)
 
 ## Education
-Bachelors Degree – Kenyatta University (2021–2025)
+## Bachelors Degree – Kenyatta University (2021–2025)
 Key modules: *Systems Administration, Networking, Backend Web Development, Embedded Systems and Internet of Things*
+![KU](<Kenyatta University.png>)
 
 Software Engineering - Holberton School
+
 
 ## Let’s Connect
 📧 Email: madarakalincoln48@gmail.com
