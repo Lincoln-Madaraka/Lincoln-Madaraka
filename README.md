@@ -37,14 +37,14 @@ I aim to contribute as a Full-Stack & DevOps Engineer by:
 Personal website showcasing my work, certifications, and skills.
 Tech: HTML, CSS, JavaScript | Hosted on Vercel
 
-5. [StaffFile]() 
+5. [StaffFile](https://payroll-manager.onrender.com/) 
 Payroll management application built with Laravel and SQL for managing employee salaries. | Live On Render
 
-2. MwangazaFarm 254
+2. [MwangazaFarm 254](https://mwangazafarm254.vercel.app/)
 An AI-powered produce marketplace connecting Kenyan farmers to urban buyers.
 Built with React to empower agriculture through technology. | On Vercel
 
-3. Cytask
+3. [Cytask](https://cytask-system.onrender.com/)
 A PHP-based task management application with authentication, categorization, and status tracking.
 (updating on hosting issue soon)
 
