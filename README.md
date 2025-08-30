@@ -53,16 +53,16 @@ A PHP-based task management application with authentication, categorization, and
 A Django app for managing medical records with secure authentication and CRUD features.
 
 
-## Certifications & Training
-1. ALX Software Engineering –  A Certified Software Engineer, Backend Pro
+### Certifications & Training
+## 1. ALX Software Engineering –  A Certified Software Engineer, Backend Pro
 ![Certified](project-3.png)
-2. Power Learn Project – Efficient Certified Web Developer.
+## 2. Power Learn Project – Efficient Certified Web Developer.
 ![Lincoln Poweer Learn PROJECT](project-5.jpeg)
-3. Google Cloud Platform – Professional Cloud Architect (badge issued)
+## 3. Google Cloud Platform – Professional Cloud Architect (badge issued)
 ![Best Engineer Lincoln](GCP_CERT.png)
-4. Git Essentials – LinkedIn Learning
+## 4. Git Essentials – LinkedIn Learning
 ![Certified](AI_FOR_CYB.png)
-5. Google IT Support Certificate – Coursera
+## 5. Google IT Support Certificate – Coursera
 ![Certified](project-11.png)
 
 ## Education
