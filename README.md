@@ -61,9 +61,9 @@ A Django app for managing medical records with secure authentication and CRUD fe
 3. Google Cloud Platform – Professional Cloud Architect (badge issued)
 ![Best Engineer Lincoln](GCP_CERT.png)
 4. Git Essentials – LinkedIn Learning
-![Certified](Lincoln LinkedIn Certified.png)
+![Certified](AI_FOR_CYB.png)
 5. Google IT Support Certificate – Coursera
-![Certified](Lincoln Google Certified.png)
+![Certified](project-11.png)
 
 ## Education
 Bachelors Degree – Kenyatta University (2021–2025)
