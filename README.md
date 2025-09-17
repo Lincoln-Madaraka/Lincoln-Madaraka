@@ -4,8 +4,7 @@ ILincoln Madaraka – Software Engineer, Full-Stack & DevOps Specialist
 [![wakatime](https://wakatime.com/badge/user/c1bac4c9-c60a-4d0f-bf5e-78ee4d291507.svg)](https://wakatime.com/@c1bac4c9-c60a-4d0f-bf5e-78ee4d291507)
 
 ## About Me
-I am Lincoln Madaraka, a software engineer creating high performance full-stack web and mobile applications as well as a seasoned DevOps Engineer.
-I have a Degree from Kenyatta University and a Software Engineering Certification from Holberton School's Africa Leadership Experience(ALX) SWE, I build scalable, secure and cloud-ready systems.
+I am Lincoln Madaraka, a software engineer creating high performance full-stack web and mobile applications as well as a seasoned DevOps Engineer. I have a Degree from Kenyatta University and a Software Engineering Certification from Holberton School's Africa Leadership Experience(ALX) SWE, I build scalable, secure and cloud-ready systems.
 
 I focus on:
 1. Fullstack Mobile and Web App development.
