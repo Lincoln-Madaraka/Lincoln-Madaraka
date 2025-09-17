@@ -58,7 +58,7 @@ Key modules: *Systems Administration, Networking, Backend Web Development, Embed
 ![ALX](holberton.png)
 
 ## Let’s Connect
-📧 Email: madarakalincoln48@gmail.com
+📧 [Email](mailto:madarakalincoln48@gmail.com)
 🐦 [MyTwitter](https://twitter.com/syntaxrtx)
 🌍 [MyPortfolio](https://hello-lincoln-prime.vercel.app/)
 
