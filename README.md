@@ -1,4 +1,4 @@
-Lincoln Madaraka – Software Engineer, Full-Stack & DevOps Specialist
+ILincoln Madaraka – Software Engineer, Full-Stack & DevOps Specialist
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Lincoln-Madaraka&label=Profile%20views&color=0e75b6&style=flat" alt="Lincoln Madaraka" /></p>
 
 [![wakatime](https://wakatime.com/badge/user/c1bac4c9-c60a-4d0f-bf5e-78ee4d291507.svg)](https://wakatime.com/@c1bac4c9-c60a-4d0f-bf5e-78ee4d291507)
@@ -60,9 +60,9 @@ Key modules: *Systems Administration, Networking, Backend Web Development, Embed
 ## Let’s Connect
 📧 Email: madarakalincoln48@gmail.com
 🐦 [MyTwitter](https://twitter.com/syntaxrtx)
-🌍 [MyPortfolio](https://lincoln-madaraka-portfolio.vercel.app/)
+🌍 [MyPortfolio](https://hello-lincoln-prime.vercel.app/)
 
 
-⭐️ Feel free to check out my repositories, explore my code, and connect with me.  
-Let’s build the future of software together. Modifying soon
+⭐️ Feel free to check out my repositories, explore my code and connect with me.  
+Let’s build the future of software together. 
 
