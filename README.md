@@ -15,7 +15,7 @@ I focus on:
 
 ## Skills & Tech Stack
 
-1. Programming Languages: *Python, PHP, JavaScript, Bash*
+1. Programming Languages: *TypeScript, Python, PHP, JavaScript, Bash*
 2. Frameworks: *Django, Node.js, React (basic), Next.js*
 3. DevOps Tools: *Docker, GitHub Actions, CI/CD pipelines, systemd*
 4. Cloud & Infrastructure: *Google Cloud, AWS (basic), Nginx, Linux server management*
