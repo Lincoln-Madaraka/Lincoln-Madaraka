@@ -64,5 +64,5 @@ Key modules: *Systems Administration, Networking, Backend Web Development, Embed
 
 
 ⭐️ Feel free to check out my repositories, explore my code, and connect with me.  
-Let’s build the future of software together. Modifying soon
+Let’s build the future of software together.
 
