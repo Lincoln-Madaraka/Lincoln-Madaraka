@@ -4,7 +4,7 @@ Lincoln Madaraka – Software Engineer, Full-Stack & DevOps Specialist
 [![wakatime](https://wakatime.com/badge/user/c1bac4c9-c60a-4d0f-bf5e-78ee4d291507.svg)](https://wakatime.com/@c1bac4c9-c60a-4d0f-bf5e-78ee4d291507)
 
 ## About Me
-I’m Lincoln Madaraka, a Kenyan software engineer specializing in backend development, full-stack applications, and DevOps engineering.
+I am Lincoln Madaraka, a software engineer creating high performance full-stack web and mobile applications as well as a seasoned DevOps Engineer.
 I have a Degree from Kenyatta University and a Software Engineering Certification from Holberton School's Africa Leadership Experience(ALX) SWE, I build scalable, secure and cloud-ready systems.
 
 I focus on:
@@ -34,23 +34,7 @@ I aim to contribute as a Full-Stack & DevOps Engineer by:
 
 
 ## Featured Projects by Lincoln Madaraka
-1. [Portfolio Website](https://lincoln-madaraka-portfolio.vercel.app/)
-Personal website showcasing my work, certifications, and skills.
-Tech: HTML, CSS, JavaScript | Hosted on Vercel
-
-2. [StaffFile](https://payroll-manager.onrender.com/) 
-Payroll management application built with Laravel and SQL for managing employee salaries. | Live On Render
-
-3. [MwangazaFarm 254](https://mwangazafarm254.vercel.app/)
-An AI-powered produce marketplace connecting Kenyan farmers to urban buyers.
-Built with React to empower agriculture through technology. | On Vercel
-
-4. [Cytask](https://cytask-system.onrender.com/)
-A PHP-based task management application with authentication, categorization, and status tracking.
-(updating on hosting issue soon)
-
-5. [Health Information System](https://health-information-syst.onrender.com/login)
-A Django app for managing medical records with secure authentication and CRUD features.
+Check out the projects I have done amd published [here](https://hello-lincoln-prime.vercel.app/projects)
 
 
 ### Certifications & Training
