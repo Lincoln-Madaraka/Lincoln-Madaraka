@@ -1,4 +1,4 @@
-ILincoln Madaraka – Software Engineer, Full-Stack & DevOps Specialist
+Lincoln Madaraka – Software Engineer, Full-Stack & DevOps Specialist
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Lincoln-Madaraka&label=Profile%20views&color=0e75b6&style=flat" alt="Lincoln Madaraka" /></p>
 
 [![wakatime](https://wakatime.com/badge/user/c1bac4c9-c60a-4d0f-bf5e-78ee4d291507.svg)](https://wakatime.com/@c1bac4c9-c60a-4d0f-bf5e-78ee4d291507)
@@ -16,7 +16,7 @@ I focus on:
 ## Skills & Tech Stack
 
 1. Programming Languages: *TypeScript, Python, PHP, JavaScript, Bash*
-2. Frameworks: *Django, Node.js, React (basic), Next.js*
+2. Frameworks: *Laravel, NextJs, Django, Node.js, React*
 3. DevOps Tools: *Docker, GitHub Actions, CI/CD pipelines, systemd*
 4. Cloud & Infrastructure: *Google Cloud, AWS (basic), Nginx, Linux server management*
 5. Databases: *MySQL, SQLite, MongoDB*
