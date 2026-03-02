@@ -33,7 +33,7 @@ I aim to contribute as a Full-Stack & DevOps Engineer by:
 
 
 ## Featured Projects by Lincoln Madaraka
-Check out the projects I have done amd published [here](https://hello-lincoln-prime.vercel.app/projects)
+Check out the projects I have done amd published [here](https://lincolnsystems.vercel.app/projects)
 
 
 ### Certifications & Training
@@ -59,7 +59,7 @@ Key modules: *Systems Administration, Networking, Backend Web Development, Embed
 ## Let’s Connect
 📧 [Email](mailto:madarakalincoln48@gmail.com)
 🐦 [MyTwitter](https://twitter.com/syntaxrtx)
-🌍 [MyPortfolio](https://hello-lincoln-prime.vercel.app/)
+🌍 [MyPortfolio](https://lincolnsystems.vercel.app/)
 
 
 ⭐️ Feel free to check out my repositories, explore my code, and connect with me.  
