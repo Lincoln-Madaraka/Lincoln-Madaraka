@@ -75,7 +75,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lincoln-Madaraka/Lincoln-Madaraka/main/assets/stack-dark.webp">
-  <img src="https://raw.githubusercontent.com/Lincoln-Madaraka/Lincoln-Madaraka/main/assets/stack-light.webp" alt="Stack. Backend and ERP: PHP, Laravel, Frappe, ERPNext, Python, MySQL, PostgreSQL, Redis. Frontend: Vue, React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS, Three.js. DevOps and delivery: Linux, Bash, Git, Vercel, Vitest, WordPress. Learning now: Node.js, MongoDB." width="100%">
+  <img src="https://raw.githubusercontent.com/Lincoln-Madaraka/Lincoln-Madaraka/main/assets/stack-light.webp" alt="Stack. Backend and ERP: PHP, Laravel, Frappe, ERPNext, Python, MySQL, PostgreSQL, Redis. Frontend: Vue, React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS. DevOps and delivery: Linux, Bash, Git, Vercel, Vitest, WordPress. Learning now: Node.js, MongoDB." width="100%">
 </picture>
 
 Also: REST APIs, SSH and server administration, hosting and system migrations, dashboards and data visualisation, the OpenAI API and workflow automation.
@@ -95,7 +95,7 @@ Also: REST APIs, SSH and server administration, hosting and system migrations, d
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lincoln-Madaraka/Lincoln-Madaraka/main/assets/education-dark.webp">
-  <img src="https://raw.githubusercontent.com/Lincoln-Madaraka/Lincoln-Madaraka/main/assets/education-light.webp" alt="Education. BSc Telecommunications and Information Engineering, Kenyatta University, 2020 to 2025, Second Class Honours, Upper Division. Diploma in Full-Stack Software Engineering, ALX Africa, 2024 to 2025, back-end specialisation." width="100%">
+  <img src="https://raw.githubusercontent.com/Lincoln-Madaraka/Lincoln-Madaraka/main/assets/education-light.webp" alt="Education. BSc Telecommunications and Information Engineering, Kenyatta University, 2020 to 2025, Second Class Honours, Upper Division. Software Engineering programme, 12 months, ALX Africa, 2024 to 2025, back-end specialisation." width="100%">
 </picture>
 
 <br>
