@@ -202,35 +202,10 @@ I build and run production systems end to end: Laravel ERPs, internal dashboards
 
 ## Stack
 
-<table>
-  <tr>
-    <td width="150"><b>Core</b></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,linux,git,bash,wordpress&theme=dark">
-        <img alt="PHP, Laravel, MySQL, JavaScript, HTML, CSS, Linux, Git, Bash, WordPress" src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,linux,git,bash,wordpress&theme=light">
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td width="150"><b>Shipped with recently</b></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,postgres,tailwind,redis,py,threejs,vercel,vitest&theme=dark">
-        <img alt="TypeScript, React, Next.js, PostgreSQL, Tailwind CSS, Redis, Python, Three.js, Vercel, Vitest" src="https://skillicons.dev/icons?i=ts,react,nextjs,postgres,tailwind,redis,py,threejs,vercel,vitest&theme=light">
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td width="150"><b>Learning now</b></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark">
-        <img alt="Node.js, MongoDB" src="https://skillicons.dev/icons?i=nodejs,mongodb&theme=light">
-      </picture>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lincoln-Madaraka/Lincoln-Madaraka/main/assets/stack-dark.webp">
+  <img src="https://raw.githubusercontent.com/Lincoln-Madaraka/Lincoln-Madaraka/main/assets/stack-light.webp" alt="Stack. Backend and ERP: PHP, Laravel, Frappe, ERPNext, Python, MySQL, PostgreSQL, Redis. Frontend: Vue, React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS, Three.js. DevOps and delivery: Linux, Bash, Git, Vercel, Vitest, WordPress. Learning now: Node.js, MongoDB." width="100%">
+</picture>
 
 Also: REST APIs, SSH and server administration, hosting and system migrations, dashboards and data visualisation, the OpenAI API and workflow automation.
 
@@ -238,33 +213,30 @@ Also: REST APIs, SSH and server administration, hosting and system migrations, d
 
 ## Experience
 
-| When | Role | Where |
-| --- | --- | --- |
-| 2025 – present | Developer Operations & Software Automation Engineer | Red Giant Media Agency, Nairobi |
-| 2024 – present | Software Engineer, freelance | Upwork, remote |
-| 2024 | DevOps Trainee | CMC Motors Group, Nairobi |
-| 2023 – 2024 | Software Developer & IoT Instructor | TinkaCode Kenya |
-| 2022 – 2023 | Web Developer & Instructor | Digital Opportunity Trust Kenya |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lincoln-Madaraka/Lincoln-Madaraka/main/assets/experience-dark.webp">
+  <img src="https://raw.githubusercontent.com/Lincoln-Madaraka/Lincoln-Madaraka/main/assets/experience-light.webp" alt="Experience. 2025 to present: Developer Operations and Software Automation Engineer at Red Giant Media Agency, Nairobi. 2024 to present: Software Engineer, freelance, on Upwork. 2024: DevOps Trainee at CMC Motors Group, Nairobi. 2023 to 2024: Software Developer and IoT Instructor at TinkaCode Kenya. 2022 to 2023: Web Developer and Instructor at Digital Opportunity Trust Kenya." width="100%">
+</picture>
 
-**BSc Telecommunications and Information Engineering**, Kenyatta University, 2020 – 2025. Second Class Honours, Upper Division.<br>
-**Diploma, Full-Stack Software Engineering**, ALX Africa, 2024 – 2025. Back-end specialisation.
+<br>
 
-<details>
-  <summary><b>Certificates (6)</b></summary>
-  <br>
-  <table>
-    <tr>
-      <td width="33%" align="center" valign="top"><a href="project-3.png"><img src="project-3.png" alt="ALX Software Engineering certificate of completion"></a><br><sub><b>ALX Software Engineering</b><br>12-month programme, back-end specialisation. 2025</sub></td>
-      <td width="33%" align="center" valign="top"><a href="GCP_CERT.png"><img src="GCP_CERT.png" alt="Udemy certificate for the Google Cloud Professional Cloud Architect course"></a><br><sub><b>Google Cloud Professional Cloud Architect</b><br>Udemy course. 2025</sub></td>
-      <td width="33%" align="center" valign="top"><a href="project-5.jpeg"><img src="project-5.jpeg" alt="Power Learn Project certificate of achievement"></a><br><sub><b>Power Learn Project</b><br>16-week software development programme, web specialisation. 2024</sub></td>
-    </tr>
-    <tr>
-      <td width="33%" align="center" valign="top"><a href="project-11.png"><img src="project-11.png" alt="Google Technical Support Fundamentals certificate on Coursera"></a><br><sub><b>Technical Support Fundamentals</b><br>Google, via Coursera. 2024</sub></td>
-      <td width="33%" align="center" valign="top"><a href="AI_FOR_CYB.png"><img src="AI_FOR_CYB.png" alt="LinkedIn Learning certificate for Artificial Intelligence for Cybersecurity"></a><br><sub><b>Artificial Intelligence for Cybersecurity</b><br>LinkedIn Learning. 2024</sub></td>
-      <td width="33%" align="center" valign="top"><a href="Lincoln%20LinkedIn%20Certfied.png"><img src="Lincoln%20LinkedIn%20Certfied.png" alt="LinkedIn Learning certificate for Git Essential Training"></a><br><sub><b>Git Essential Training</b><br>LinkedIn Learning. 2024</sub></td>
-    </tr>
-  </table>
-</details>
+## Education
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lincoln-Madaraka/Lincoln-Madaraka/main/assets/education-dark.webp">
+  <img src="https://raw.githubusercontent.com/Lincoln-Madaraka/Lincoln-Madaraka/main/assets/education-light.webp" alt="Education. BSc Telecommunications and Information Engineering, Kenyatta University, 2020 to 2025, Second Class Honours, Upper Division. Diploma in Full-Stack Software Engineering, ALX Africa, 2024 to 2025, back-end specialisation." width="100%">
+</picture>
+
+<br>
+
+## Certificates
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lincoln-Madaraka/Lincoln-Madaraka/main/assets/certificates-dark.webp">
+  <img src="https://raw.githubusercontent.com/Lincoln-Madaraka/Lincoln-Madaraka/main/assets/certificates-light.webp" alt="Certificates. ALX Software Engineering, 2025. Google Cloud Professional Cloud Architect on Udemy, 2025. Power Learn Project software development programme, 2024. Google Technical Support Fundamentals on Coursera, 2024. Artificial Intelligence for Cybersecurity on LinkedIn Learning, 2024. Git Essential Training on LinkedIn Learning, 2024." width="100%">
+</picture>
+
+<p align="center"><sub>Full size: <a href="project-3.png">ALX</a> &middot; <a href="GCP_CERT.png">Google Cloud</a> &middot; <a href="project-5.jpeg">Power Learn Project</a> &middot; <a href="project-11.png">Technical Support</a> &middot; <a href="AI_FOR_CYB.png">AI for Cybersecurity</a> &middot; <a href="Lincoln%20LinkedIn%20Certfied.png">Git</a></sub></p>
 
 <br>
 
